@@ -1,1 +1,1 @@
-# Simple-RNN-based-ImDB-Movie-Predictione
+# Simple-RNN-based-ImDB-Movie-Prediction
